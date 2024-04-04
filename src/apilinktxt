@@ -1,0 +1,13 @@
+https://api.edamam.com/search?q='pizza'&app_id=v&app_key=8120a063584a656ba5af0e75ef2bf553
+
+
+
+Application ID
+9bb78f58
+
+Application Keys
+8120a063584a656ba5af0e75ef2bf553	
+
+
+useeffect diffnation-
+use effect hook use to run side effect suchas facting api updating the dom ,it take to peramiters  first is call back function and second is dependancy. if array of dependecy is blank useeffect will run only one time
